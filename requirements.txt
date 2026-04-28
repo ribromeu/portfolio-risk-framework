@@ -1,0 +1,9 @@
+yfinance
+pandas
+numpy
+scipy
+arch
+tabulate
+matplotlib
+seaborn
+pandas-datareader
